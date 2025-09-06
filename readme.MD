@@ -8,21 +8,13 @@ This repository contains a comparative analysis of accident prediction models us
 
 1. **Convolutional Neural Network (CNN):**
    - Accuracy: 93%
-   - Precision: [CNN Precision]
-   - Recall: [CNN Recall]
-   - F1 Score: [CNN F1 Score]
 
 2. **K-Nearest Neighbors (KNN):**
    - Accuracy: 91%
-   - Precision: [KNN Precision]
-   - Recall: [KNN Recall]
-   - F1 Score: [KNN F1 Score]
 
 3. **Random Forest Trees:**
    - Accuracy: 96%
-   - Precision: [Random Forest Precision]
-   - Recall: [Random Forest Recall]
-   - F1 Score: [Random Forest F1 Score]
+
 
 
 
